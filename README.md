@@ -244,12 +244,12 @@ Execute the programs and publish them.
 
 ```
 # OUTPUT
-![alt text](map/imageapp/static/map.png)
-![alt text](map/imageapp/static/madurai-meenakshi-temple.jpg)
-![alt text](map/imageapp/static/Thiruparankundram-Murugan-Temple.jpg)
-![alt text](map/imageapp/static/Kallazhagar_(31).jpg)
-![alt text](map/imageapp/static/Koodalazhagar-temple.webp)
-![alt text](map/imageapp/static/theppakulam.jpg)
+ ![alt text](<Screenshot (71).png>)
+![alt text](<Screenshot (72).png>)
+![alt text](<Screenshot (73).png>) 
+![alt text](<Screenshot (74).png>) 
+![alt text](<Screenshot (75).png>)
+![alt text](<Screenshot (76).png>)  
 
 
 
